@@ -13,8 +13,8 @@
 
 <a name="overview">
 ## Overview 
-The TUF developer tool is a Python library that enables developers to create
-and maintain the required metadata for files hosted in a TUF Repository. The
+The TUF developer tool is a Python library that enables developers (package authors) to create
+and maintain the required metadata for a TUF Repository. The
 main concern when generating metadata for a TUF repository is generating
 information that matches the future location of the files in the repository. We
 use the developer tools to generate valid information so that the project and
